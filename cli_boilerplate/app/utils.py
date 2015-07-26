@@ -10,7 +10,7 @@ import sys
 
 def exception():
     """runs everytime an exception is caught"""
-    print("Enter a valid language. For help, type 'pylang -i'")
+    print("Enter a valid language. For help, type '<app> -i'")
     sys.exit(0)
 
 # UTILITY FUNCTIONS

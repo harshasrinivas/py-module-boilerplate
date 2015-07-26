@@ -7,7 +7,7 @@ This is what I use for [my modules](https://github.com/harshasrinivas?tab=reposi
 ##Getting started
 
 * Clone the repo `git clone https://github.com/harshasrinivas/py-module-boilerplate`
-* Setup the module name `sh script.sh <module-name>`
+* Setup the module `sh script.sh <module-name> <author-name> <author-email>`
 
 ##License
 
